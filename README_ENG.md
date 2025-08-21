@@ -33,7 +33,7 @@ Unity (Game Engine)
 
 C# (Game Logic & Systems)
 
-Blender (Assets / Models, if applicable)
+Blender (Assets / Models)
 
 ## 📸 Screenshots
 <img width="1060" height="592" alt="Ekran görüntüsü 2025-08-21 181422" src="https://github.com/user-attachments/assets/c362ec01-834f-4103-9596-af2130c0d292" />
@@ -52,7 +52,7 @@ Keep your flower alive as long as possible 🌸
 
 ## 📌 Project Info
 
-This game was created as the Graduation Project for Üretken Akademi (2024), where I successfully completed a 7-month intensive game development program.
+This game was created as the Graduation Project for Üretken Akademi (2023), where I successfully completed a 4-months intensive game development program.
 
 ## 🔮 Future Improvements
 
